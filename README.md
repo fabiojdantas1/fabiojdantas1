@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fábio José Dantas</h1>
+<h1 align="center">Hi 👋, I'm Fabio Jose Dantas</h1>
 <h3 align="center">A passionate developer for technology</h3>
 
 - 🔭 I’m currently working on [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
