@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
 
-- 🌱 I’m currently learning **Javascript Testing in the JavaScript Expert training**
-
-- 👨‍💻 All of my projects are available at [https://github.com/fabiojdantas1/](https://github.com/fabiojdantas1/)
+- 🌱 I’m currently learning [Testing, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert training](https://cursos.erickwendel.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
