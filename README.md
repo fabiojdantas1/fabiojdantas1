@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
 
-- 🌱 I’m currently learning Testing, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert training [by Erick Wendel(https://cursos.erickwendel.com.br/)
+- 🌱 I’m currently learning Testing, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert training [by Erick Wendel](https://cursos.erickwendel.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
