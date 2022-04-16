@@ -3,7 +3,10 @@
 
 - 🔭 I’m currently working on [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
 
-- 🌱 I’m currently learning TDD & BDD, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert Training by [Erick Wendel](https://cursos.erickwendel.com.br/) and Clean Architecture by [Otávio Lemos](https://thewisedev.com.br/)
+- 🌱 I’m currently learning: 
+    . TDD & BDD, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert Training by [Erick Wendel](https://cursos.erickwendel.com.br/)
+    . Clean Architecture by [Otávio Lemos](https://thewisedev.com.br/)
+    . English by [Rui Ventura](https://www.venturacursos.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
