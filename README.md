@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio Dantas</h1>
 <h3 align="center">A passionate developer for technology</h3>
 
-- 🔭 I’m currently working on [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
+- 🔭 I’m currently working at [Empresa Brasileira de Correios e Telégrafos](https://www.correios.com.br/)
 
 - 🌱 I’m currently learning: 
     - TDD & BDD, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert Training at [Erick Wendel](https://cursos.erickwendel.com.br/)
