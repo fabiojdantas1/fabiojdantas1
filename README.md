@@ -7,7 +7,7 @@
     - English at [Rui Ventura](https://www.venturacursos.com.br/)
     - Clean Architecture at [Otávio Lemos](https://www.otaviolemos.com.br/)
     - ReactJS at [Rocketseat](https://www.rocketseat.com.br/)
-    - TDD & BDD, Life Cycle, Data Types, RegExp, Design Patterns, Node.js Streams, Error Handling, Performance and Security in the JavaScript Expert Training at [Erick Wendel](https://cursos.erickwendel.com.br/)
+    - JavaScript Expert Training at [Erick Wendel](https://cursos.erickwendel.com.br/)
     
 
 <h3 align="left">Connect with me:</h3>
